@@ -3,6 +3,9 @@ Speaker-Label-Propagation-Algorithm
 
 Speaker Label Propagation Algorithm for detecting communites in a graph. 
 
+This project is implemntation of paper titled "Towards Linear Time Overlapping Community Detection in Social Networks"(http://arxiv.org/pdf/1202.2465.pdf)
+
+
 1.MINIMUM REQUIRED SOFTWARE:
 	Apache Maven 3.0.5 (mvn -version) 
 	Java 1.7.0_67      (java -version)
